@@ -61,3 +61,43 @@ hr {
     display: inline;
     padding: 0 0.5rem;
 }
+
+
+/* Navbar */
+.navigation {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.navigation .nav-brand {
+    font-weight: bold;
+}
+
+.navigation .nav-link {
+    text-align: right;
+}
+
+.navigation .link {
+    color: white;
+}
+
+.navigation .link-active {
+    font-weight: bold;
+}
+
+
+/* heading */
+.hero {
+    background-color: aqua;
+    padding: 2rem;
+    padding-top: 5rem;
+}
+
+.hero-img {
+    max-width: 80%;
+    width: 400px;
+    display: block;
+    margin: auto;
+}

@@ -147,3 +147,12 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+/* projects */
+.showcase-list {
+    padding: 2rem;
+    margin: 3rem auto;
+    
+    border-radius: 1rem;
+    text-align: center;
+}

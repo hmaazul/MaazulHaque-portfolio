@@ -150,9 +150,9 @@ hr {
 
 /* projects */
 .showcase-list {
-    padding: 2rem;
-    margin: 3rem auto;
-    
-    border-radius: 1rem;
-    text-align: center;
+    /* padding: 2rem; */
+    margin: 5rem ;
+    /* width: 100%; */
+    border-radius: 2rem;
+
 }
